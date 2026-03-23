@@ -1,0 +1,11 @@
+# Build and Compilation Dependencies
+setuptools>=61.0.0
+setuptools-rust>=1.5.2
+wheel>=0.37.1
+build>=0.8.0
+
+# Optional Performance Backends
+numpy>=1.20.0
+
+# Testing and Code Quality
+pytest>=7.0.0
